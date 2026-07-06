@@ -2,6 +2,10 @@
 
 🔭 I’m currently working on Daiichi Sankyo Co., Ltd. as an Cloud Engineer.
 
+## Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Stats
 
 <p align="left">
